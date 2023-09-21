@@ -1,0 +1,4 @@
+Macchina = [Matricola:1, Targa:T10001T, Marce:5 Autovettura = [Tipo:Macchina, Ruote:4, Cilindrata:1100, Colore:Verde, Stato:false]]
+Macchina = [Matricola:2, Targa:T20002T, Marce:6 Autovettura = [Tipo:Macchina, Ruote:4, Cilindrata:1500, Colore:Rossa, Stato:false]]
+Camion = [Lunghezza Rimorichi:500.0, Peso:0.0, Limite Velocita:80 Macchina = [Matricola:3, Targa:T30003T, Marce:8 Autovettura = [Tipo:Camion, Ruote:8, Cilindrata:2000, Colore:Nero, Stato:false]]]
+Camion = [Lunghezza Rimorichi:800.0, Peso:0.0, Limite Velocita:80 Macchina = [Matricola:4, Targa:T40004T, Marce:8 Autovettura = [Tipo:Camion, Ruote:9, Cilindrata:2500, Colore:Bianco, Stato:false]]]

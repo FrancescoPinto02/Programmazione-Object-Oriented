@@ -1,0 +1,8 @@
+PANINOTECA = [Panini Disponibili: 10 Birre Disponibili: 15 LOCALE = [Nome: Il Panino Biricchino Indirizzo: Via del Panino Posti Disponibili: 6]]
+PANINOTECA = [Panini Disponibili: 15 Birre Disponibili: 20 LOCALE = [Nome: Prova Indirizzo: Via della Provola Posti Disponibili: 10]]
+PIZZERIA = [Menu: {Diavola=6, Mais=5} LOCALE = [Nome: Pizziamo Indirizzo: Corso Europa Posti Disponibili: 0]]
+PIZZERIA = [Menu: {Diavola=6} LOCALE = [Nome: PizzaBella Indirizzo: via PizzaBella Posti Disponibili: 5]]
+PANINOTECA = [Panini Disponibili: 40 Birre Disponibili: 20 LOCALE = [Nome: Panino Figo Indirizzo: Via della fame n. 7 Posti Disponibili: 30]]
+PANINOTECA = [Panini Disponibili: 20 Birre Disponibili: 10 LOCALE = [Nome: Paniniamo Indirizzo: Via del cibo n. 22 Posti Disponibili: 10]]
+PIZZERIA = [Menu: {Margherita=7, Diavola=8} LOCALE = [Nome: Speedy Pizza Indirizzo: Corso degli alberghi Posti Disponibili: 20]]
+PIZZERIA = [Menu: {Margherita=5, Marinara=4} LOCALE = [Nome: PizzaBrutta Indirizzo: via PizzaBrutta Posti Disponibili: 10]]

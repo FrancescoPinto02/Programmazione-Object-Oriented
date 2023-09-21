@@ -1,0 +1,4 @@
+Sigla: 423ABE Efficienza: 120
+Sigla: 441DFA Cv: 95.0
+Sigla: 621CAA Efficienza: 110
+Sigla: 690FAD Cv: 65.0

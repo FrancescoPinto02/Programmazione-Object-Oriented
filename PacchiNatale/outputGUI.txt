@@ -1,0 +1,7 @@
+ID LISTA: 1
+PACCO = [codice: 3 Descrizione: Telefono Tipo: 0 Data di Arrivo: 18/11/2023]
+PACCO = [codice: 4 Descrizione: Fumetto Tipo: 0 Data di Arrivo: 19/11/2023]
+PACCO = [codice: 1 Descrizione: Computer Tipo: 2 Data di Arrivo: 20/11/2023]
+PACCO = [codice: 2 Descrizione: Cuffie Tipo: 1 Data di Arrivo: 21/11/2023]
+PACCO = [codice: 5 Descrizione: Sto Pacco Tipo: 2 Data di Arrivo: 20/2/2023]
+PACCO = [codice: 6 Descrizione: Sto Pacco Tipo: 2 Data di Arrivo: 20/2/2023]

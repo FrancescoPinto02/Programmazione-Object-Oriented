@@ -1,0 +1,2 @@
+STUDENTE DSA = [Matricola: 5544332211 Nome: Marco Cognome: Verdi Patologia: Diabete Lieve]
+STUDENTE DSA = [Matricola: 0099887766 Nome: Alfredo Cognome: Neri Patologia: Diabete Grave]

@@ -1,0 +1,2 @@
+STUDENTE = [Matricola: 1122334455 Nome: Mario Cognome: Rossi]
+STUDENTE = [Matricola: 6677889900 Nome: Giorgio Cognome: Bianchi]

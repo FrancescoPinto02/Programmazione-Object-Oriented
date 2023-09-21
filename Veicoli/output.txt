@@ -1,0 +1,4 @@
+Autobus [posti=40 Veicolo [id=3, tipo=Autobus, km=0]]
+Autobus [posti=50 Veicolo [id=4, tipo=Autobus, km=0]]
+Treno [minRitardo=65 Veicolo [id=1, tipo=Treno, km=0]]
+Treno [minRitardo=60 Veicolo [id=2, tipo=Treno, km=0]]

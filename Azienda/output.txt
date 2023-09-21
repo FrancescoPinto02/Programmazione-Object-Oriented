@@ -1,0 +1,3 @@
+DETERMINATO = [Scadenza: Thu Nov 20 00:00:00 CET 3924 DIPENDENTE = [Nome: Mario Cognome: Rossi ID: 1 Salario: 1000.0]]
+INDETERMINATO = [Qualifica: Dirigente DIPENDENTE = [Nome: Giorgio Cognome: Bianchi ID: 2 Salario: 1500.0]]
+STAGISTA = [Supervisore: INDETERMINATO = [Qualifica: Dirigente DIPENDENTE = [Nome: Giorgio Cognome: Bianchi ID: 2 Salario: 1500.0]] DIPENDENTE = [Nome: Gino Cognome: Buonvino ID: 3 Salario: 800.0]]

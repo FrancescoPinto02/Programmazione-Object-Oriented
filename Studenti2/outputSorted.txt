@@ -1,0 +1,4 @@
+STUDENTE = [matricola: 0512100003 nome: Fausto cognome: Bonobo categoria: 1 eta: 19]
+STUDENTE = [matricola: 0512100001 nome: Mario cognome: Rossi categoria: 0 eta: 20]
+STUDENTE = [matricola: 0512100002 nome: Francesco cognome: Pinto categoria: 0 eta: 21]
+STUDENTE = [matricola: 0512100004 nome: Gino cognome: Buonvino categoria: 1 eta: 23]

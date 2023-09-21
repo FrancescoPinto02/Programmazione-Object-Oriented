@@ -1,0 +1,1 @@
+PIZZERIA = [Menu: {Diavola=6, Mais=5} LOCALE = [Nome: Pizziamo Indirizzo: Corso Europa Posti Disponibili: 0]]

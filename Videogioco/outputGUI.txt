@@ -1,0 +1,1 @@
+Lottatore [Player [hp=90, attacco=160, difesa=40, kill=2]]
